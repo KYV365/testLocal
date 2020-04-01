@@ -1,3 +1,4 @@
 123456789
 test merge 123456789
 test 20200401
+test diff1
